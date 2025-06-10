@@ -1,0 +1,13 @@
+Name,Grade,House,TimeInLibrary(min),Detentions,ChocolateWrappers,BackpackWeight(kg)
+Harry Potter,11,Ravenclaw,37,2,6,5.9
+Hermione Granger,9,Gryffindor,1,2,8,7.1
+Ron Weasley,11,Ravenclaw,63,1,6,3.5
+Draco Malfoy,11,Ravenclaw,59,3,17,4.7
+Luna Lovegood,9,Ravenclaw,20,3,3,3.5
+Neville Longbottom,9,Hufflepuff,32,2,13,6.7
+Ginny Weasley,11,Slytherin,75,3,17,4.8
+Cho Chang,10,Gryffindor,57,3,8,3.6
+Cedric Diggory,11,Slytherin,21,0,1,5.6
+Pansy Parkinson,11,Ravenclaw,107,2,19,2.7
+Dean Thomas,11,Ravenclaw,88,4,14,7.1
+Seamus Finnigan,11,Slytherin,48,2,6,5.0

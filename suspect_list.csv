@@ -1,0 +1,4 @@
+,Name,Grade,House,TimeInLibrary(min),Detentions,ChocolateWrappers,BackpackWeight(kg),Suspect
+1,Hermione Granger,9,Gryffindor,1,2,8,7.1,True
+5,Neville Longbottom,9,Hufflepuff,32,2,13,6.7,True
+10,Dean Thomas,11,Ravenclaw,88,4,14,7.1,True
